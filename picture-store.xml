@@ -43,6 +43,7 @@
 
 <!-- Preferences can be inlined in your HTML like so -->
 <div class="my-style" id="container">__UP_myStringPref__</div> 
+<img src="robot.png">
 
 <script type="text/javascript">
 
@@ -58,8 +59,6 @@
   gadgets.util.registerOnLoadHandler(onLoad);
   
 </script>
-
-<div>Test</div>
 
 ]]>
 </Content>
