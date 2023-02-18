@@ -43,7 +43,7 @@
 
 <!-- Preferences can be inlined in your HTML like so -->
 <div class="my-style" id="container">__UP_myStringPref__</div> 
-<img src="robot.png" id="container">
+<img src="https://themechanist1.github.io/robot.png" id="container">
 
 <script type="text/javascript">
 
