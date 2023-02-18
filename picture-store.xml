@@ -54,10 +54,12 @@
     <!-- Preferences can be accessed at runtime like so -->
     alert(prefs.getString('myStringPref'));
   }
-
+  
   gadgets.util.registerOnLoadHandler(onLoad);
   
 </script>
+
+<div>Test</div>
 
 ]]>
 </Content>
